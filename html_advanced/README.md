@@ -1,2 +1,2 @@
 Advanced HTML coding 
-<p> <img src="Logo.jpg> Ye Okwe </p>
+<p> <img src="../html_advanced/Framework image.jpg></p>
