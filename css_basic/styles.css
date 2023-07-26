@@ -1,7 +1,10 @@
 body
 {
     display: flex;
-   flex-direction: column; 
+   flex-direction: column;
+   border: 3px  solid   blue;
+   height: 100vh; 
+   background-color: yellowgreen;
 }
 
 main
@@ -21,4 +24,9 @@ aside
 {
     flex: 1;
     overflow-y: auto;
+}
+
+header li
+{
+    size: 100px;
 }
