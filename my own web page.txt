@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<!-- Header Title begins-->
+<title> Hero Piece </title>
+<!--Header Title end-->
+<link href='css/styles.css' rel='stylesheet'>
+</head>
+
+<body>
+<main>
+<!--Flex container-->
+<div class='flex-container'>
+
+</div>
+
+</main>
+
+
+
+</body>
+</html>
